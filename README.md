@@ -1,1 +1,1 @@
-- try again in abuabdirohman.com, configure zone editor
+- change ftp server to ip niagahoster
